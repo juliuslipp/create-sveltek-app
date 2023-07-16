@@ -1,0 +1,6 @@
+{
+  "@auth/core": "^0.9.0",
+  "@auth/sveltekit": "^0.3.5",
+  "@prisma/client": "^5.0.0",
+  "prisma": "^5.0.0"
+}
