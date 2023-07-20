@@ -1,14 +1,14 @@
 {
-  "name": "create-kit-app",
+  "name": "create-sveltek-app",
   "version": "0.0.1",
   "description": "Create a SvelteKit web application with prisma, tailwindcss and more configured.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliuslipp/create-kit-app.git"
+    "url": "https://github.com/juliuslipp/create-sveltek-app.git"
   },
   "keywords": [
-    "create-kit-app",
+    "create-sveltek-app",
     "init.tips",
     "svelte",
     "svelte-kit",
@@ -19,7 +19,7 @@
   "type": "module",
   "exports": "./dist/*",
   "bin": {
-    "create-kit-app": "dist/index.js"
+    "create-sveltek-app": "dist/index.js"
   },
   "engines": {
     "node": ">=14.16"

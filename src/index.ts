@@ -9,7 +9,7 @@ import { getUserPkgManager } from "~/helpers/utils.js";
 import { bold, cyan } from "kleur/colors";
 
 let cwd = process.argv[2] ?? ".";
-p.intro("Welcome to create-kit-app!");
+p.intro("Welcome to create-sveltek-app!");
 
 let appName = await p.text({
   message: "How should we call your project?",

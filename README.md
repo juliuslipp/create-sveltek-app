@@ -1,5 +1,5 @@
-# Welcome to create-kit-app!
-A simple CLI tool for generating SvelteKit apps with your favourite apps already configured.
+# Welcome to create-sveltek-app!
+A simple CLI tool for generating opinionated SvelteKit apps with your favourite apps already configured.
 
 ## 🔥 Features 🔥
 - **TypeScript** - Type-safe code
@@ -9,7 +9,7 @@ A simple CLI tool for generating SvelteKit apps with your favourite apps already
 - **Auth.js** - Secure your apps, because safety is cool
 - **Playwright** - Reliable end-to-end testing made easy
 - **Vitest** - Vite centered testing framework
-- **Eslint** - Keep that code clean and error-free
+  - **Eslint** - Keep that code clean and error-free
 - **Prettier** - And keep it styled
 - ... and more!
 
@@ -37,8 +37,8 @@ And that's it! Just follow the interactive prompts to select your options, inclu
 - Interactive prompts for customizing your app: tailor-make your creation to suit your vision!
 
 ## Credits
-`create-kit-app` was inspired by `create-t3-app` and builds upon some of its code. A big thanks to the open-source community!
+`create-sveltek-app` was inspired by `create-t3-app` and builds upon some of its code. A big thanks to the open-source community!
 
 
-Stay tuned for further enhancements and happy coding with `create-kit-app`!
+Stay tuned for further enhancements and happy coding with `create-sveltek-app`!
 
