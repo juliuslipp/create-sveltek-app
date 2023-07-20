@@ -23,6 +23,14 @@ export async function addAuthJs(
     prod: true,
   });
 
+  if (withDb) {
+    await installPackage({
+      projectDirectory,
+      package: "@auth/prisma-adapter",
+      prod: true,
+    });
+  }
+
   const authTemplateDir = path.join(PKG_ROOT, "templates/auth");
   const authSrcDir = path.join(authTemplateDir, "src");
   const hookSrc = path.join(
